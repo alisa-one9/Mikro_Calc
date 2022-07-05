@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mikro_Calc</string>
+
+    <string name="Sharipov">Астронавт Шарипов Салижан</string>
+    <string name="myWishes">написать пожелание перед полетом:</string>
+    <string name="sendEmail">отправить по е-мейл</string>
+
+
+</resources>
+
